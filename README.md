@@ -20,6 +20,8 @@ I'm Tim Matten, a Data Science and Mathematics student at Northeastern Universit
 - **MLB Lineup Optimization** - Evolutionary computing to optimize baseball lineups (15-20% efficiency gain)
 - **MLB Pitcher Data Explorer** - Interactive dashboard for 100,000+ pitch records from Baseball Savant  
 - **Pivotal Moment Analysis** - Quantifying career-altering moments using 10,000+ Statcast records
+- **MLB Hall of Pretty Good Site** - Site to check if an MLB hitter is a good fit for the "Hall of Pretty Good"
+- **Spikeball Stat/Game Tracker** - Streamlit app to track stats and games of Spikeball
 
 ## Coursework
 
@@ -27,9 +29,10 @@ Fundamentals of CS I/II • Advanced Programming with Data • Databases • Dat
 
 ## Currently Working On
 
+- Improving Lineup Optimizer to consider stats against opposing pitcher
 - Expanding MLB pivotal moments research
+- Database integration with Spikeball Stat/Game Tracker
 - Learning advanced ML techniques for sports analytics
-- Contributing to open-source baseball analytics projects
 
 ## Get in Touch
 
